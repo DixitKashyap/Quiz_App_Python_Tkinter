@@ -1,4 +1,4 @@
-<h1>Quiz App README<h1>
+#Quizzler
 ![status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-100%25-brightgreen)
 <br>
