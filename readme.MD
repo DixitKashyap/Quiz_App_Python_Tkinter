@@ -7,7 +7,9 @@
 <b>This a Python quiz app that fetch quiz questions from an API and display them in a graphical user interface (GUI) using tkinter.User Can choose between true and false to answer the question<b>
 
 <br>
+<br>
 <b>Features<b>
+<br>
 <ul>
 <li>Fetch quiz question from an Api
 <li>Display quesiont in a Gui Base of Tkinter
